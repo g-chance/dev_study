@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sEBCQ6//8vs1bwBLt4ElklT4ICr/CTzcHz+O9pS5lh3XuoiKKum5GS6YCLYVxukmZX08/AiGUnZPz2Hrdo0hiA==",
+  "dgSpecHash": "zKH9XWUhIPVrJETvwSnlo+KQlggnuzFQGno3Qq8A06RvPFNKw0+49G8FAAARHvZ3xaXuh6NrOIRINuMA4nlNrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_Development\\ms_study\\cs_sandbox\\cs_sandbox\\cs_sandbox.csproj",
+  "projectFilePath": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_My Files\\dev_study\\vs_projects\\cs_sandbox\\cs_sandbox\\cs_sandbox.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\v-gchance\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\v-gchance\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

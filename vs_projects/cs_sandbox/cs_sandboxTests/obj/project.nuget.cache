@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2pTxGVHYh8FplQREf1bWbeYNGrr0qej9wP+WSBNSy43TRWsHv+pFTJQmBOZ5UOhKN1+c4KZDdwYjLtZjrphvDw==",
+  "dgSpecHash": "oSMNYXraZk2AkFvDXLe7evVYolX7pTQrzfHpLJfZoIAWkg9LEwdzgtaRNATi8tHdH4e57tt1bDQytxfWb3FbuQ==",
   "success": false,
-  "projectFilePath": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_Development\\ms_study\\cs_sandbox\\cs_sandboxTests\\cs_sandboxTests.csproj",
+  "projectFilePath": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_My Files\\dev_study\\vs_projects\\cs_sandbox\\cs_sandboxTests\\cs_sandboxTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\v-gchance\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\v-gchance\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
@@ -96,8 +96,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_Development\\ms_study\\cs_sandbox\\cs_algorithms\\cs_sandbox.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_Development\\ms_study\\cs_sandbox\\cs_algorithms\\cs_sandbox.csproj",
+      "message": "Unable to find project 'C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_My Files\\dev_study\\vs_projects\\cs_sandbox\\cs_algorithms\\cs_sandbox.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_My Files\\dev_study\\vs_projects\\cs_sandbox\\cs_algorithms\\cs_sandbox.csproj",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
       ]

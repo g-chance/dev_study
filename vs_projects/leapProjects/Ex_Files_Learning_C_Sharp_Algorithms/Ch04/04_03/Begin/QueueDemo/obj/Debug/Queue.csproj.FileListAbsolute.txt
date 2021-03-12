@@ -1,0 +1,12 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Begin\QueueDemo\bin\Debug\QueueDemo.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Begin\QueueDemo\bin\Debug\QueueDemo.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Begin\QueueDemo\bin\Debug\QueueDemo.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Begin\QueueDemo\obj\Debug\QueueDemo.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Begin\QueueDemo\obj\Debug\QueueDemo.pdb
+C:\Users\v-gchance\OneDrive - Microsoft\Documents\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_03\Begin\QueueDemo\bin\Debug\QueueDemo.exe.config
+C:\Users\v-gchance\OneDrive - Microsoft\Documents\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_03\Begin\QueueDemo\bin\Debug\QueueDemo.exe
+C:\Users\v-gchance\OneDrive - Microsoft\Documents\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_03\Begin\QueueDemo\bin\Debug\QueueDemo.pdb
+C:\Users\v-gchance\OneDrive - Microsoft\Documents\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_03\Begin\QueueDemo\obj\Debug\Queue.csprojAssemblyReference.cache
+C:\Users\v-gchance\OneDrive - Microsoft\Documents\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_03\Begin\QueueDemo\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\v-gchance\OneDrive - Microsoft\Documents\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_03\Begin\QueueDemo\obj\Debug\QueueDemo.exe
+C:\Users\v-gchance\OneDrive - Microsoft\Documents\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_03\Begin\QueueDemo\obj\Debug\QueueDemo.pdb

@@ -5097,11 +5097,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_Development\\ms_study\\cs_sandbox\\cs_sandbox\\cs_sandbox.csproj",
+      "projectUniqueName": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_My Files\\dev_study\\vs_projects\\cs_sandbox\\cs_sandbox\\cs_sandbox.csproj",
       "projectName": "cs_sandbox",
-      "projectPath": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_Development\\ms_study\\cs_sandbox\\cs_sandbox\\cs_sandbox.csproj",
+      "projectPath": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_My Files\\dev_study\\vs_projects\\cs_sandbox\\cs_sandbox\\cs_sandbox.csproj",
       "packagesPath": "C:\\Users\\v-gchance\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_Development\\ms_study\\cs_sandbox\\cs_sandbox\\obj\\",
+      "outputPath": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_My Files\\dev_study\\vs_projects\\cs_sandbox\\cs_sandbox\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\v-gchance\\AppData\\Roaming\\NuGet\\NuGet.Config",

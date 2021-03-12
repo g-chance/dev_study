@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_Development\\ms_study\\cs_sandbox\\cs_sandboxTests\\cs_sandboxTests.csproj": {}
+    "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_My Files\\dev_study\\vs_projects\\cs_sandbox\\cs_sandboxTests\\cs_sandboxTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_Development\\ms_study\\cs_sandbox\\cs_sandboxTests\\cs_sandboxTests.csproj": {
+    "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_My Files\\dev_study\\vs_projects\\cs_sandbox\\cs_sandboxTests\\cs_sandboxTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_Development\\ms_study\\cs_sandbox\\cs_sandboxTests\\cs_sandboxTests.csproj",
+        "projectUniqueName": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_My Files\\dev_study\\vs_projects\\cs_sandbox\\cs_sandboxTests\\cs_sandboxTests.csproj",
         "projectName": "cs_sandboxTests",
-        "projectPath": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_Development\\ms_study\\cs_sandbox\\cs_sandboxTests\\cs_sandboxTests.csproj",
+        "projectPath": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_My Files\\dev_study\\vs_projects\\cs_sandbox\\cs_sandboxTests\\cs_sandboxTests.csproj",
         "packagesPath": "C:\\Users\\v-gchance\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_Development\\ms_study\\cs_sandbox\\cs_sandboxTests\\obj\\",
+        "outputPath": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_My Files\\dev_study\\vs_projects\\cs_sandbox\\cs_sandboxTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\v-gchance\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_Development\\ms_study\\cs_sandbox\\cs_algorithms\\cs_sandbox.csproj": {
-                "projectPath": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_Development\\ms_study\\cs_sandbox\\cs_algorithms\\cs_sandbox.csproj"
+              "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_My Files\\dev_study\\vs_projects\\cs_sandbox\\cs_algorithms\\cs_sandbox.csproj": {
+                "projectPath": "C:\\Users\\v-gchance\\OneDrive - Microsoft\\Documents\\_My Files\\dev_study\\vs_projects\\cs_sandbox\\cs_algorithms\\cs_sandbox.csproj"
               }
             }
           }

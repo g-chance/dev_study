@@ -1,0 +1,8 @@
+C:\Users\v-gchance\source\repos\SalaryCalculatorTestProject\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\v-gchance\source\repos\SalaryCalculatorTestProject\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\v-gchance\source\repos\SalaryCalculatorTestProject\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\v-gchance\source\repos\SalaryCalculatorTestProject\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\v-gchance\source\repos\SalaryCalculatorTestProject\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\v-gchance\source\repos\SalaryCalculatorTestProject\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\v-gchance\source\repos\SalaryCalculatorTestProject\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\v-gchance\source\repos\SalaryCalculatorTestProject\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
